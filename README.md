@@ -1,1 +1,2 @@
-# indigo
+# Indigo
+Mind vs matter
